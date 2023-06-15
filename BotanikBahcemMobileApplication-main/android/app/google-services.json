@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978329881679",
+    "project_id": "datastoredeneme",
+    "storage_bucket": "datastoredeneme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978329881679:android:21f77fc49be408d9f1ee3a",
+        "android_client_info": {
+          "package_name": "com.botanik.botanik_bahcem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978329881679-a1teueorpilh7ectnamf53tgeugckced.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkIDcO_vkKpbw2cuPKOKhOOMJtcbR7PL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978329881679-a1teueorpilh7ectnamf53tgeugckced.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
